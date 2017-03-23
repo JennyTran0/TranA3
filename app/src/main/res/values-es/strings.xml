@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranA3</string>
+    <string name="prompt">Por favor, elija un sitio web</string>
+    <string name="go">Entrar</string>
+    <string name="mesa">Colegio de Mesa</string>
+    <string name="reddit"></string>
+</resources>

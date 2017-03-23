@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranA3</string>
+    <string name="go">Go</string>
+    <string name="prompt">Please choose a website</string>
+    <string name="reddit" translatable="false">Reddit</string>
+    <string name="mesa">Mesa College</string>
+</resources>
